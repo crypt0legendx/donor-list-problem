@@ -1,0 +1,17 @@
+[
+    {
+        "channelId": 0, "name": "Email", "time": 5
+    },
+    {
+        "channelId": 1, "name": "Instagram", "time": 2
+    },
+    {
+        "channelId": 2, "name": "Linkedin", "time": 3
+    },
+    {
+        "channelId": 3, "name": "Facebook", "time": 1
+    },
+    {
+        "channelId": 4, "name": "Twitter", "time": 3
+    }    
+]
